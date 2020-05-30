@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wb+MQeQ3bUu015o09CUddxEM1Q7qvNIy+klagCdemloRxC6TBoAO3YHY5vp4iiXoAEJdfxVUSucLw1lsuR5YUA==",
+  "success": true,
+  "projectFilePath": "/home/jlrt/Escritorio/Clase01/Clase01.csproj",
+  "expectedPackageFiles": [
+    "/home/jlrt/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
